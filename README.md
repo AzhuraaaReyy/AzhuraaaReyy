@@ -45,14 +45,24 @@ Saat ini masih jadi Mahasiswa di Universitas Dian Nuswantoro, sambil terus belaj
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=AzhuraaaReyy&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AzhuraaaReyy&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AzhuraaaReyy&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-stats.shion.dev/api?username=AzhuraaaReyy&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="100%" /><br/><br/>
+      <img src="https://streak-stats.demolab.com/?user=AzhuraaaReyy&theme=radical&hide_border=false" width="100%" /><br/><br/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AzhuraaaReyy&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="100%" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlpYTMxaWJwYzZtdWhkYmRqZGM3em84ZnV6dXJzdjRmZzZrcHk4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLbMRL3o3FzODu2M0l/giphy.gif" width="100%" alt="Header GIF 1" /><br/><br/>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3c4MXBhZncwNGQxc2lnZzNxbDAyZjU2NHd6amQ3NnE1d3BocmRwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X1OabmpEkQYKHwjFVW/giphy.gif" width="100%" alt="Header GIF 2" />
+    </td>
+  </tr>
+</table>
 
 ---
-[![](https://komarev.com/ghpvc/?username=AzhuraaaReyy&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlpYTMxaWJwYzZtdWhkYmRqZGM3em84ZnV6dXJzdjRmZzZrcHk4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLbMRL3o3FzODu2M0l/giphy.gif" width="100%" alt="Header GIF" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=AzhuraaaReyy&icon=2&color=0" alt="Visitor Count" />
+  </a>
 </p>
