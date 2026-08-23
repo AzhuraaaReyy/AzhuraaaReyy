@@ -10,7 +10,7 @@ Suka bikin produk web & mobile dari ujung ke ujung — mulai dari landing page k
 
 Saat ini masih jadi Mahasiswa di Universitas Dian Nuswantoro, sambil terus belajar & ngerjain project di luar kuliah.
 
-🚧 **Lagi ngerjain:** *(isi project yang lagi jalan sekarang, misal: "redesign website booking untuk klien X")*
+🚧 **Lagi ngerjain:** *Projek fitur POS (Point Of Sale) untuk usaha bengkel motor*
 
 ---
 
@@ -46,10 +46,13 @@ Saat ini masih jadi Mahasiswa di Universitas Dian Nuswantoro, sambil terus belaj
 
 ### 📌 Beberapa Project
 
-*(pin 4-6 repo terbaikmu di bagian atas profil — lebih efektif dari daftar manual di sini, tapi kalau mau tetap ditulis, formatnya begini)*
 
-- 🔗 **[Nama Project]** — deskripsi singkat 1 baris tentang apa yang dibangun dan stack-nya
-- 🔗 **[Nama Project]** — deskripsi singkat 1 baris
+
+- 🔗 **POS (Point of Sale)** — Sistem kasir untuk toko bengkel, dibangun dengan Laravel 11 (backend) dan React TSX (frontend)
+- 🔗 **Website Deteksi Stunting** — Platform untuk Posyandu melakukan cek deteksi stunting serta memantau pertumbuhan dan perkembangan anak
+- 🔗 **Landing Page + Admin Toko Roti** — Landing page produk dan dashboard admin untuk klien pribadi toko roti
+- 🔗 **Penjualan Tiket** — Sistem penjualan tiket untuk event
+- 🔗 **Website Poliklinik Sederhana** — Sistem sederhana untuk operasional poliklinik
 
 ---
 
