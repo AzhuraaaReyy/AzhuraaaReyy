@@ -1,69 +1,24 @@
-<h1 align="center">Halo, saya Azhura 👋</h1>
-<h3 align="center">Freelance Web Developer — Website Klien, Dashboard & Internal Tools</h3>
+# 💫 About Me:
+Fullstack Developer | React · Laravel · Flutter<br><br>Fullstack developer building web and mobile products end-to-end, from<br>client-facing sites to internal dashboards. I work across the stack with<br>React on the frontend, Laravel on the backend, and Flutter for mobile,<br>writing in JavaScript, PHP, and Dart.
 
-<p align="center">
-  Saya membangun produk web secara end-to-end — mulai dari landing page publik, dashboard internal, hingga redesign website pemerintahan/institusi — dengan dokumentasi teknis yang rapi di setiap proyek.
-</p>
 
-<p align="center">
-  <a href="mailto:email.anda@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/linkedin-anda"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portofolio-anda.com"><img src="https://img.shields.io/badge/Portofolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmmad.rzal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rizal-0495b63a0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadrizal5251@gmail.com) 
 
----
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AzhuraaaReyy&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AzhuraaaReyy&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AzhuraaaReyy&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🛠️ Tech Stack
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AzhuraaaReyy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white)
-
-**Backend & Data**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AzhuraaaReyy&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=AzhuraaaReyy&icon=2&color=0)](https://visitcount.itsvg.in)
 
-### 💼 Lingkup Pekerjaan
-
-- 🖥️ **Landing page & website klien** — UI yang khas dan kaya animasi, bukan template generik
-- 📊 **Dashboard & sistem internal** — form intake publik dipasangkan dengan panel admin privat, termasuk sistem booking dan tracking
-- 🏛️ **Redesign website pemerintahan & institusi** — komponen animasi dibangun dari nol, bukan library siap pakai
-- 📄 **Dokumentasi teknis lengkap** — setiap proyek disertai problem statement, PRD, arsitektur, skema database, design system, hingga coding rules
-
----
-
-### 🚀 Proyek Unggulan
-
-<!--
-Ganti baris di bawah ini dengan repo yang benar-benar sudah di-pin.
-Deskripsi cukup 1 baris — detail lengkap ada di README masing-masing repo.
--->
-
-| Proyek | Deskripsi | Stack |
-|---|---|---|
-| **[Nama Proyek](https://github.com/username/repo)** | Deskripsi singkat: fungsinya apa dan untuk siapa | React · TypeScript · Supabase |
-| **[Nama Proyek](https://github.com/username/repo)** | Deskripsi singkat | Laravel · PostgreSQL |
-| **[Nama Proyek](https://github.com/username/repo)** | Deskripsi singkat | React · Three.js · Tailwind |
-
----
-
-### 📈 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
-<p align="center"><i>Terbuka untuk proyek freelance baru — silakan hubungi saya.</i></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
