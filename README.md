@@ -53,3 +53,6 @@ Saat ini masih jadi Mahasiswa di Universitas Dian Nuswantoro, sambil terus belaj
 [![](https://komarev.com/ghpvc/?username=AzhuraaaReyy&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlpYTMxaWJwYzZtdWhkYmRqZGM3em84ZnV6dXJzdjRmZzZrcHk4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLbMRL3o3FzODu2M0l/giphy.gif" width="100%" alt="Header GIF" />
+</p>
