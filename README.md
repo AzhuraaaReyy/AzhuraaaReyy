@@ -46,15 +46,21 @@ Saat ini masih jadi Mahasiswa di Universitas Dian Nuswantoro, sambil terus belaj
 ### 📊 GitHub Stats
 
 <table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=AzhuraaaReyy&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="100%" /><br/><br/>
-      <img src="https://streak-stats.demolab.com/?user=AzhuraaaReyy&theme=radical&hide_border=false" width="100%" /><br/><br/>
+  <tr valign="top">
+    <!-- Kolom Kiri: Stats -->
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.shion.dev/api?username=AzhuraaaReyy&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="100%" />
+      <br/><br/>
+      <img src="https://streak-stats.demolab.com/?user=AzhuraaaReyy&theme=radical&hide_border=false" width="100%" />
+      <br/><br/>
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AzhuraaaReyy&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="100%" />
     </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlpYTMxaWJwYzZtdWhkYmRqZGM3em84ZnV6dXJzdjRmZzZrcHk4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLbMRL3o3FzODu2M0l/giphy.gif" width="100%" alt="Header GIF 1" /><br/><br/>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3c4MXBhZncwNGQxc2lnZzNxbDAyZjU2NHd6amQ3NnE1d3BocmRwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X1OabmpEkQYKHwjFVW/giphy.gif" width="100%" alt="Header GIF 2" />
+
+    <!-- Kolom Kanan: GIF (Diatur height-nya agar presisi sejajar) -->
+    <td width="50%" align="center" valign="top">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlpYTMxaWJwYzZtdWhkYmRqZGM3em84ZnV6dXJzdjRmZzZrcHk4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLbMRL3o3FzODu2M0l/giphy.gif" width="100%" height="230" />
+      <br/><br/>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3c4MXBhZncwNGQxc2lnZzNxbDAyZjU2NHd6amQ3NnE1d3BocmRwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X1OabmpEkQYKHwjFVW/giphy.gif" width="100%" height="230" />
     </td>
   </tr>
 </table>
