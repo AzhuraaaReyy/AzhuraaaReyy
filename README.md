@@ -26,7 +26,6 @@ Saat ini masih jadi Mahasiswa di Universitas Dian Nuswantoro, sambil terus belaj
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,php,dart,html,css,react,nextjs,flutter,tailwind,bootstrap,vite,threejs,laravel,fastapi,supabase,firebase,mysql,vercel,gcp,github,figma&perline=11)
  
-*(MariaDB, WebGL, Canva, dan Cypress belum tersedia di skillicons.dev, jadi tetap pakai badge shields.io di bawah)*
  
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
