@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTEzdXEwZWh6N2J3bTJkdTNjb3gzMnFkYncwMWYzM3I4OXU1OXhqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="100%" alt="Header GIF" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazExdG8xbzRuenJ5eXIzZm9yaGdqMGdsYzN2ZXkyNXdvamVnc291aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif" width="100%" alt="Header GIF" />
 </p>
 
 ### 👋 Hai, aku Muhammad Rizal (AzhuraaaReyy)
