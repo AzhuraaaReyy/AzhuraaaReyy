@@ -6,7 +6,7 @@
 
 Fullstack Developer | React · Laravel · Flutter
 
-Suka bikin produk web & mobile dari ujung ke ujung — mulai dari landing page klien, sistem booking, sampai dashboard internal. Ngoding di frontend pakai React, di backend pakai Laravel, dan buat mobile pakai Flutter. Bahasa sehari-hari: JavaScript, PHP, Dart.
+Suka bikin produk web & mobile dari ujung ke ujung. Mulai dari landing page klien, sistem booking, sampai dashboard internal. Ngoding di frontend pakai React, di backend pakai Laravel, dan buat mobile pakai Flutter. Bahasa sehari-hari: JavaScript, PHP, Dart.
 
 Saat ini masih jadi Mahasiswa di Universitas Dian Nuswantoro, sambil terus belajar & ngerjain project di luar kuliah.
 
