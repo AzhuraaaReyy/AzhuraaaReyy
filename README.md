@@ -12,7 +12,6 @@ I build end-to-end web and mobile systems—from client landing pages and bookin
 - ☁️ **BaaS & DB:** Supabase, Firebase, MySQL, PostgreSQL
 - ⚙️ **Workflow:** Integrating AI tools & LLM APIs to accelerate development and build smarter features
 
-🚧 **Currently building:** *A custom Point of Sale (POS) system for motorcycle workshops.*
 
 ---
 
