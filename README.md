@@ -1,77 +1,67 @@
-<div align="center">
-  <h1>Muhammad Rizal</h1>
-  <p><strong>Software Engineer & Full-Stack Developer</strong></p>
-  <p>B.Sc. in Informatics Engineering | Universitas Dian Nuswantoro (Udinus)</p>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazExdG8xbzRuenJ5eXIzZm9yaGdqMGdsYzN2ZXkyNXdvamVnc291aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif" width="100%" alt="Header GIF" />
+</p>
 
-  <p>
-    <a href="https://linkedin.com/in/muhammad-rizal-0495b63a0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:muhammadrizal5251@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://instagram.com/mhmmad.rzal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  </p>
-</div>
+### 👋 Hi, I'm Muhammad Rizal (AzhuraaaReyy)
 
----
+**Software Engineer & Full-Stack Developer** Informatics Engineering Graduate (B.Sc) @ Universitas Dian Nuswantoro
 
-### 👤 About Me
+I build end-to-end web and mobile systems—from client landing pages and booking engines to internal management dashboards and AI-enhanced applications. I focus on clean architecture, responsive interfaces, and practical software solutions.
 
-Software Engineer and Informatics Engineering graduate from Universitas Dian Nuswantoro (Udinus). Specialized in full-stack web development and modern application architecture using **React**, **Laravel**, and **Supabase/Firebase**. Experienced in integrating AI tools and LLM APIs to enhance application functionality and streamline development workflows.
+- 💻 **Core Tech:** React, Laravel, Flutter, TypeScript, PHP, Dart
+- ☁️ **BaaS & DB:** Supabase, Firebase, MySQL, PostgreSQL
+- ⚙️ **Workflow:** Integrating AI tools & LLM APIs to accelerate development and build smarter features
 
-- 🎓 **Education:** B.Sc. in Informatics Engineering, Universitas Dian Nuswantoro
-- 🎯 **Focus Areas:** Full-Stack Architecture, RESTful API Development, Responsive UI/UX, AI Integration
-- ⚙️ **Current Project:** Engineering a Point of Sale (POS) and inventory platform for automotive service centers
-- 💼 **Open to:** Full-time Software Engineering, Frontend/Backend, and Full-Stack roles
 
 ---
 
-### 🛠️ Technical Capabilities
+### 🌐 Connect with Me
 
-| Category | Skillset |
-| :--- | :--- |
-| **Languages** | JavaScript (ES6+), TypeScript, PHP, Dart, SQL, HTML5, CSS3 |
-| **Frontend Frameworks** | React.js, Next.js, Flutter, Tailwind CSS, Bootstrap, Vite |
-| **Backend & APIs** | Laravel, Node.js, FastAPI, RESTful APIs |
-| **Databases & BaaS** | Supabase, Firebase, PostgreSQL, MySQL, MariaDB |
-| **AI & Developer Tools** | OpenAI API, Git, GitHub Actions, Docker, GCP, Postman, Figma |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rizal-0495b63a0)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmmad.rzal)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadrizal5251@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,php,dart,html,css,react,nextjs,flutter,tailwind,bootstrap,vite,threejs,laravel,fastapi,supabase,firebase,mysql,vercel,gcp,github,figma&perline=11)
+
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ---
 
 ### 📌 Featured Projects
 
-#### 🛠️ **Automotive POS & Inventory Management System**
-> *A full-stack point of sale and service tracking platform engineered for automotive repair workshops.*
-- Built secure backend APIs using **Laravel 11** and responsive user interfaces with **React (TSX)** and **Tailwind CSS**.
-- Features real-time stock monitoring, transaction logging, service ticketing, and revenue analytics.
-
-#### 🩺 **Child Growth & Stunting Early Detection Platform**
-> *Healthcare tracking system designed for Posyandu community health monitoring.*
-- Integrated longitudinal child growth metrics and stunting detection logic to assist health workers.
-- Developed using **React**, **Laravel**, and **PostgreSQL** with clear data visualizations for parents and administrators.
-
-#### 🛒 **Commercial Bakery Storefront & Admin Portal**
-> *Custom client web application combining a public storefront with a back-office administration panel.*
-- Implemented client-side ordering workflows alongside real-time inventory and order tracking using **React**, **Supabase**, and **Tailwind CSS**.
-
-#### 🎟️ **Event Ticketing & Reservation Engine**
-> *Web-based booking platform for event management and ticket sales.*
-- Built relational database schemas and transactional handling using **Laravel** and **MySQL**.
+- 🔗 **Auto Repair POS System** — Cashier and inventory management system designed for vehicle service centers. Built with Laravel 11 REST API and React + TSX.
+- 🔗 **Child Growth & Stunting Early Detection Platform** — Web application for community health centers (Posyandu) to record checkups, monitor growth milestones, and screen for stunting indicators.
+- 🔗 **Bakery E-Commerce & Management Dashboard** — Client project featuring a consumer-facing product storefront paired with a custom admin control panel.
+- 🔗 **Event Ticketing Platform** — Web-based ticket sales and booking management platform.
+- 🔗 **Polyclinic Operations Portal** — Streamlined system for handling outpatient registration and medical record workflows.
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AzhuraaaReyy&theme=github_dark&show_icons=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AzhuraaaReyy&theme=github_dark&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
-</div>
+<table>
+<tr valign="top">
+<td width="50%" align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=AzhuraaaReyy&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="100%" /><br/><br/>
+<img src="https://streak-stats.demolab.com/?user=AzhuraaaReyy&theme=radical&hide_border=false" width="100%" /><br/><br/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AzhuraaaReyy&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="100%" />
+</td>
 
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AzhuraaaReyy&theme=github_dark&hide_border=true" width="97%" alt="GitHub Streak" />
-</div>
+<td width="50%" align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlpYTMxaWJwYzZtdWhkYmRqZGM3em84ZnV6dXJzdjRmZzZrcHk4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLbMRL3o3FzODu2M0l/giphy.gif" width="50%" /><br/><br/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3c4MXBhZncwNGQxc2lnZzNxbDAyZjU2NHd6amQ3NnE1d3BocmRwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X1OabmpEkQYKHwjFVW/giphy.gif" width="50%" />
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
-  <sub>Profile Visitor Count: <img src="https://komarev.com/ghpvc/?username=AzhuraaaReyy&color=0077B5&style=flat-square" alt="Visitor Count" align="center" /></sub>
-</div>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=AzhuraaaReyy&icon=2&color=0" alt="Visitor Count" />
+  </a>
+</p>
